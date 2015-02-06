@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	안녕하세요 github 테스트입니다. 
+	안녕하세요 github 테스트입니다.
+	<br/>
+	이것은 로컬입니다.
 </body>
 </html>
